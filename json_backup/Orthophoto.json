@@ -1,0 +1,275 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "36f29c37-3691-4a85-81e0-ff9759140ae1",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "36f29c37-3691-4a85-81e0-ff9759140ae1",
+                            "constraintid": "5f630531-0255-4fb1-9562-c12df7e2f838",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "36f29c37-3691-4a85-81e0-ff9759140ae1",
+                            "constraintid": "19b2774c-742e-4453-a0d5-a10743aa2064",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "b47f75c0-7184-4bcb-8957-120acaff6ab0",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": false,
+                    "name": "Othophoto Identifier",
+                    "nodegroup_id": "fbecaf92-ccd1-11ee-9a20-00155d2ffd59",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "7bb4e510-8551-4bb5-b7b9-da409fe0a745",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "7bb4e510-8551-4bb5-b7b9-da409fe0a745",
+                            "constraintid": "d340dfb3-5239-4319-b308-e9c273e1fa99",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "7bb4e510-8551-4bb5-b7b9-da409fe0a745",
+                            "constraintid": "73f5597a-9e55-47e9-9c8f-459e8da5721d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "b47f75c0-7184-4bcb-8957-120acaff6ab0",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": false,
+                    "name": "Digital Image",
+                    "nodegroup_id": "f285f6aa-ccce-11ee-831b-00155d2ffd59",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "36f29c37-3691-4a85-81e0-ff9759140ae1",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Othophoto Identifier",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "2c0f3380-7ded-4c78-9e24-aac3960ffb4b",
+                    "label": "Othophoto Identifier",
+                    "node_id": "fbecaf92-ccd1-11ee-9a20-00155d2ffd59",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "7bb4e510-8551-4bb5-b7b9-da409fe0a745",
+                    "config": {
+                        "acceptedFiles": "",
+                        "label": "Digital Image",
+                        "maxFilesize": "200",
+                        "rerender": true
+                    },
+                    "id": "b472d713-4acf-4e03-9adc-bd5403fd9e89",
+                    "label": "Digital Image",
+                    "node_id": "f285f6aa-ccce-11ee-831b-00155d2ffd59",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000019"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": "",
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "0e8717ba-ccbd-11ee-8894-00155d2ffd59",
+                    "edgeid": "405cfb20-4808-4048-8099-6ef759809036",
+                    "graph_id": "b47f75c0-7184-4bcb-8957-120acaff6ab0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "rangenode_id": "fbecaf92-ccd1-11ee-9a20-00155d2ffd59"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "0e8717ba-ccbd-11ee-8894-00155d2ffd59",
+                    "edgeid": "6ebe6f1e-ff13-4815-9169-183191c8158e",
+                    "graph_id": "b47f75c0-7184-4bcb-8957-120acaff6ab0",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation",
+                    "rangenode_id": "f285f6aa-ccce-11ee-831b-00155d2ffd59"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "fbecaf92-ccd1-11ee-9a20-00155d2ffd59",
+                                "string_template": "Orthophoto ID: <Othophoto Identifier>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "fbecaf92-ccd1-11ee-9a20-00155d2ffd59",
+                                "string_template": "<Othophoto Identifier>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "b47f75c0-7184-4bcb-8957-120acaff6ab0",
+                    "id": "878e2f8d-7ac2-44e1-afd7-950d67e3fd39"
+                }
+            ],
+            "graphid": "b47f75c0-7184-4bcb-8957-120acaff6ab0",
+            "iconclass": "fa fa-camera-retro",
+            "is_editable": false,
+            "isactive": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": "Orthophoto",
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f285f6aa-ccce-11ee-831b-00155d2ffd59",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "fbecaf92-ccd1-11ee-9a20-00155d2ffd59",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": null,
+                    "config": null,
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b47f75c0-7184-4bcb-8957-120acaff6ab0",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Orthophoto",
+                    "nodegroup_id": null,
+                    "nodeid": "0e8717ba-ccbd-11ee-8894-00155d2ffd59",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "digital_image",
+                    "config": {
+                        "activateMax": false,
+                        "maxFileSize": null,
+                        "maxFiles": 1
+                    },
+                    "datatype": "file-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b47f75c0-7184-4bcb-8957-120acaff6ab0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Digital Image",
+                    "nodegroup_id": "f285f6aa-ccce-11ee-831b-00155d2ffd59",
+                    "nodeid": "f285f6aa-ccce-11ee-831b-00155d2ffd59",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "othophoto_identifier",
+                    "config": null,
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b47f75c0-7184-4bcb-8957-120acaff6ab0",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Othophoto Identifier",
+                    "nodegroup_id": "fbecaf92-ccd1-11ee-9a20-00155d2ffd59",
+                    "nodeid": "fbecaf92-ccd1-11ee-9a20-00155d2ffd59",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "e6e8db47-2ccf-11e6-927e-b8f6b115d7dd",
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": null,
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "b47f75c0-7184-4bcb-8957-120acaff6ab0",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Orthophoto",
+                "nodegroup_id": null,
+                "nodeid": "0e8717ba-ccbd-11ee-8894-00155d2ffd59",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": "",
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 12.14 (Ubuntu 12.14-1.pgdg18.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "5.10.16.3-microsoft-standard-WSL2"
+    }
+}

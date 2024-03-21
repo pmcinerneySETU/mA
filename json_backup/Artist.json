@@ -1,0 +1,673 @@
+{
+    "graph": [
+        {
+            "author": "Patrick McInerney",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "138dcbfa-9bce-11ed-a7d0-00be432b24e7",
+                    "component_id": "2f9054d8-de57-45cd-8a9c-58bbb1619030",
+                    "config": {
+                        "groupedCardIds": [],
+                        "sortedWidgetIds": [
+                            "138dcbfb-9bce-11ed-a7d0-00be432b24e7",
+                            "138dcbfc-9bce-11ed-a7d0-00be432b24e7"
+                        ]
+                    },
+                    "constraints": [
+                        {
+                            "card_id": "138dcbfa-9bce-11ed-a7d0-00be432b24e7",
+                            "constraintid": "04db31d2-c7e9-427a-8471-8ba69847012b",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Birth Details",
+                    "nodegroup_id": "138dcbf9-9bce-11ed-a7d0-00be432b24e7",
+                    "sortorder": 2,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "4a2d51ff-edae-43a1-bcd0-debd2acac139",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "4a2d51ff-edae-43a1-bcd0-debd2acac139",
+                            "constraintid": "d4ad0181-c91d-455e-8bd4-2ff62951606f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "4a2d51ff-edae-43a1-bcd0-debd2acac139",
+                            "constraintid": "f3f6a078-b819-4b96-9914-52898f3f2370",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Death Details",
+                    "nodegroup_id": "3ff9df5e-9e28-11ed-a55e-00be432b24e7",
+                    "sortorder": 3,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d3c85fde-823f-4635-9f91-b0f703a96f1a",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "d3c85fde-823f-4635-9f91-b0f703a96f1a",
+                            "constraintid": "80b11954-9f0d-4e62-acad-47cf711bcdc8",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "d3c85fde-823f-4635-9f91-b0f703a96f1a",
+                            "constraintid": "ba54d814-54ac-4e31-a343-216817d5ae18",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": false,
+                    "name": "Artist Image",
+                    "nodegroup_id": "38df1fb6-9d85-11ed-84ed-00be432b24e7",
+                    "sortorder": 1,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f52f1aa6-9bcd-11ed-a7d0-00be432b24e7",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": {
+                        "groupedCardIds": [],
+                        "sortedWidgetIds": [
+                            "f52f1aa7-9bcd-11ed-a7d0-00be432b24e7",
+                            "f52f1aa5-9bcd-11ed-a7d0-00be432b24e7"
+                        ]
+                    },
+                    "constraints": [
+                        {
+                            "card_id": "f52f1aa6-9bcd-11ed-a7d0-00be432b24e7",
+                            "constraintid": "7703cf6a-e203-431e-9faf-0a97620adce3",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": false,
+                    "name": "Name",
+                    "nodegroup_id": "f52f1aa5-9bcd-11ed-a7d0-00be432b24e7",
+                    "sortorder": 0,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "138dcbfa-9bce-11ed-a7d0-00be432b24e7",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Place of Birth",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "295638a2-31f5-4e4c-9001-5d313dcb8027",
+                    "label": "Place of Birth",
+                    "node_id": "138dcbfc-9bce-11ed-a7d0-00be432b24e7",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "f52f1aa6-9bcd-11ed-a7d0-00be432b24e7",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Name Type",
+                        "placeholder": "Select an option"
+                    },
+                    "id": "32b632f2-95cc-44e5-98ea-d8536ca8fc83",
+                    "label": "Name Type",
+                    "node_id": "f52f1aa7-9bcd-11ed-a7d0-00be432b24e7",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000015"
+                },
+                {
+                    "card_id": "f52f1aa6-9bcd-11ed-a7d0-00be432b24e7",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Name",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "3969bc01-74e3-46d2-9b72-697d858bce38",
+                    "label": "Name",
+                    "node_id": "f52f1aa5-9bcd-11ed-a7d0-00be432b24e7",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "138dcbfa-9bce-11ed-a7d0-00be432b24e7",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD",
+                        "defaultValue": "",
+                        "label": "Date of Birth",
+                        "maxDate": false,
+                        "minDate": false,
+                        "placeholder": "Enter date",
+                        "viewMode": "days"
+                    },
+                    "id": "5893dd22-8ccf-4242-bba6-3d1ac5975188",
+                    "label": "Date of Birth",
+                    "node_id": "138dcbfb-9bce-11ed-a7d0-00be432b24e7",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000004"
+                },
+                {
+                    "card_id": "4a2d51ff-edae-43a1-bcd0-debd2acac139",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Place of Death",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "9ce7c827-8711-4b87-9061-09d4dfcd2fec",
+                    "label": "Place of Death",
+                    "node_id": "6e37da24-9e28-11ed-a55e-00be432b24e7",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "4a2d51ff-edae-43a1-bcd0-debd2acac139",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD",
+                        "defaultValue": "",
+                        "label": "Date of Death",
+                        "maxDate": false,
+                        "minDate": false,
+                        "placeholder": "Enter date",
+                        "viewMode": "days"
+                    },
+                    "id": "a567c9aa-d6c0-4452-905a-26e2ddde77c0",
+                    "label": "Date of Death",
+                    "node_id": "537eeca4-9e28-11ed-a55e-00be432b24e7",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000004"
+                },
+                {
+                    "card_id": "d3c85fde-823f-4635-9f91-b0f703a96f1a",
+                    "config": {
+                        "acceptedFiles": ".jpg, .jepg, .tif, .tiff, .png",
+                        "label": "Artist Image",
+                        "maxFilesize": "200",
+                        "rerender": true
+                    },
+                    "id": "cd845fa0-d052-4828-aaf8-0f0780de1bbf",
+                    "label": "Artist Image",
+                    "node_id": "38df1fb6-9d85-11ed-84ed-00be432b24e7",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000019"
+                }
+            ],
+            "color": "#13acf0",
+            "config": {
+                "activeTabIndex": 0,
+                "basemap": "streets",
+                "bearing": 0,
+                "featureColor": "#FF0000",
+                "featureEditingDisabled": true,
+                "featureLineWidth": 1,
+                "featurePointSize": 3,
+                "geocodePlaceholder": "Search",
+                "geocodeProvider": "10000000-0000-0000-0000-010000000000",
+                "geocoderVisible": true,
+                "mapControlsHidden": false,
+                "maxZoom": 20,
+                "minZoom": 0,
+                "nodes": [],
+                "overlayOpacity": 0,
+                "pitch": 0,
+                "tabs": []
+            },
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": "",
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "138dcbf9-9bce-11ed-a7d0-00be432b24e7",
+                    "edgeid": "138dcbfd-9bce-11ed-a7d0-00be432b24e7",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "rangenode_id": "138dcbfb-9bce-11ed-a7d0-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "138dcbf9-9bce-11ed-a7d0-00be432b24e7",
+                    "edgeid": "138dcbfe-9bce-11ed-a7d0-00be432b24e7",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at",
+                    "rangenode_id": "138dcbfc-9bce-11ed-a7d0-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d3475438-9bcd-11ed-a7d0-00be432b24e7",
+                    "edgeid": "233587ff-d566-45c3-baa1-36e87b2f150a",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "rangenode_id": "f52f1aa5-9bcd-11ed-a7d0-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d3475438-9bcd-11ed-a7d0-00be432b24e7",
+                    "edgeid": "6b97fdba-2744-46dd-ac1d-838a9190e10b",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P100i_died_in",
+                    "rangenode_id": "3ff9df5e-9e28-11ed-a55e-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3ff9df5e-9e28-11ed-a55e-00be432b24e7",
+                    "edgeid": "6d7e7a0e-8556-46b0-b8de-bbe6b52589b1",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "rangenode_id": "537eeca4-9e28-11ed-a55e-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d3475438-9bcd-11ed-a7d0-00be432b24e7",
+                    "edgeid": "787ce194-6d5e-49fc-b8b8-0e6056597f2f",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P98i_was_born",
+                    "rangenode_id": "138dcbf9-9bce-11ed-a7d0-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d3475438-9bcd-11ed-a7d0-00be432b24e7",
+                    "edgeid": "c1dfa4e3-361e-4451-b27d-3a3517b77829",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation",
+                    "rangenode_id": "38df1fb6-9d85-11ed-84ed-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3ff9df5e-9e28-11ed-a55e-00be432b24e7",
+                    "edgeid": "cee7e09f-2dcb-4d44-b529-1d83e573daa3",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at",
+                    "rangenode_id": "6e37da24-9e28-11ed-a55e-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f52f1aa5-9bcd-11ed-a7d0-00be432b24e7",
+                    "edgeid": "f52f1aa8-9bcd-11ed-a7d0-00be432b24e7",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "f52f1aa7-9bcd-11ed-a7d0-00be432b24e7"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "138dcbf9-9bce-11ed-a7d0-00be432b24e7",
+                                "string_template": "Date of Birth: <Date of Birth>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "f52f1aa5-9bcd-11ed-a7d0-00be432b24e7",
+                                "string_template": "Name: <Name> Date of Birth <Birth>"
+                            },
+                            "name": {
+                                "nodegroup_id": "f52f1aa5-9bcd-11ed-a7d0-00be432b24e7",
+                                "string_template": "<Name>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "id": "77dbe0c0-d2af-4a81-b6c3-2cc74146ce5e"
+                }
+            ],
+            "graphid": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+            "iconclass": "fa fa-user",
+            "is_editable": false,
+            "isactive": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": "Artist",
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "138dcbf9-9bce-11ed-a7d0-00be432b24e7",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "38df1fb6-9d85-11ed-84ed-00be432b24e7",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3ff9df5e-9e28-11ed-a55e-00be432b24e7",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "f52f1aa5-9bcd-11ed-a7d0-00be432b24e7",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": null,
+                    "config": {},
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Birth",
+                    "nodegroup_id": "138dcbf9-9bce-11ed-a7d0-00be432b24e7",
+                    "nodeid": "138dcbf9-9bce-11ed-a7d0-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E67_Birth",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P98i_was_born",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "date_of_birth",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Date of Birth",
+                    "nodegroup_id": "138dcbf9-9bce-11ed-a7d0-00be432b24e7",
+                    "nodeid": "138dcbfb-9bce-11ed-a7d0-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "place_of_birth",
+                    "config": null,
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place of Birth",
+                    "nodegroup_id": "138dcbf9-9bce-11ed-a7d0-00be432b24e7",
+                    "nodeid": "138dcbfc-9bce-11ed-a7d0-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "artist_image",
+                    "config": {
+                        "activateMax": false,
+                        "maxFileSize": null,
+                        "maxFiles": 1
+                    },
+                    "datatype": "file-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Artist Image",
+                    "nodegroup_id": "38df1fb6-9d85-11ed-84ed-00be432b24e7",
+                    "nodeid": "38df1fb6-9d85-11ed-84ed-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P138i_has_representation",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "death",
+                    "config": null,
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Death",
+                    "nodegroup_id": "3ff9df5e-9e28-11ed-a55e-00be432b24e7",
+                    "nodeid": "3ff9df5e-9e28-11ed-a55e-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E69_Death",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P100i_died_in",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "date_of_death",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Date of Death",
+                    "nodegroup_id": "3ff9df5e-9e28-11ed-a55e-00be432b24e7",
+                    "nodeid": "537eeca4-9e28-11ed-a55e-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "place_of_death",
+                    "config": null,
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place of Death",
+                    "nodegroup_id": "3ff9df5e-9e28-11ed-a55e-00be432b24e7",
+                    "nodeid": "6e37da24-9e28-11ed-a55e-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at",
+                    "sortorder": 0
+                },
+                {
+                    "alias": null,
+                    "config": null,
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Artist",
+                    "nodegroup_id": null,
+                    "nodeid": "d3475438-9bcd-11ed-a7d0-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E21_Person",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "name",
+                    "config": null,
+                    "datatype": "string",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": true,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Name",
+                    "nodegroup_id": "f52f1aa5-9bcd-11ed-a7d0-00be432b24e7",
+                    "nodeid": "f52f1aa5-9bcd-11ed-a7d0-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E41_Appellation",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "name_type",
+                    "config": {
+                        "options": [
+                            {
+                                "id": "e91b01b1-b750-47e9-b908-58d483fecaca",
+                                "selected": false,
+                                "text": "Birth Name"
+                            },
+                            {
+                                "id": "2bd1847c-c43a-4f8f-a70b-8915434e9fb4",
+                                "selected": false,
+                                "text": "Alias"
+                            }
+                        ]
+                    },
+                    "datatype": "domain-value",
+                    "description": "An artist may have a birth name and/or a street name. They must have one of these and they may have both.",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": true,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Name Type",
+                    "nodegroup_id": "f52f1aa5-9bcd-11ed-a7d0-00be432b24e7",
+                    "nodeid": "f52f1aa7-9bcd-11ed-a7d0-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "e6e8db47-2ccf-11e6-927e-b8f6b115d7dd",
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": null,
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Artist",
+                "nodegroup_id": null,
+                "nodeid": "d3475438-9bcd-11ed-a7d0-00be432b24e7",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E21_Person",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": "Artist",
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 12.14 (Ubuntu 12.14-1.pgdg18.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "5.10.16.3-microsoft-standard-WSL2"
+    }
+}

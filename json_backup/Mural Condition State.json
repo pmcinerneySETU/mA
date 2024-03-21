@@ -1,0 +1,482 @@
+{
+    "graph": [
+        {
+            "author": "Patrick McInerney",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "24734d86-c797-4c53-a25b-0f7d20610526",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "24734d86-c797-4c53-a25b-0f7d20610526",
+                            "constraintid": "f12a4506-4c20-4c4f-a4da-011731055fc9",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "24734d86-c797-4c53-a25b-0f7d20610526",
+                            "constraintid": "6fe1764d-dbb3-40cf-86fa-de1c1a09afbf",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Condition State",
+                    "nodegroup_id": "24258b1e-a591-11ed-b169-2c6dc1910000",
+                    "sortorder": 1,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "8c80bed8-cc59-4fc0-9ce2-9269c6125f5b",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "8c80bed8-cc59-4fc0-9ce2-9269c6125f5b",
+                            "constraintid": "d5c9c5d2-f8b2-49f9-bbf3-1ff4e354787e",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "8c80bed8-cc59-4fc0-9ce2-9269c6125f5b",
+                            "constraintid": "c78e2dd2-365c-4cf9-9cbb-836c90fae2ff",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Condition Assessment",
+                    "nodegroup_id": "6c352bb6-9f1b-11ed-bc97-2c6dc1910000",
+                    "sortorder": 2,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "b0db0dd2-c176-4617-9853-2ea9e2845664",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "b0db0dd2-c176-4617-9853-2ea9e2845664",
+                            "constraintid": "da8a05b4-561a-44c3-bfa2-bbc7b5e749b2",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "b0db0dd2-c176-4617-9853-2ea9e2845664",
+                            "constraintid": "40c9eb0a-9bcd-4ee5-8e73-1b407c521e13",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Mural",
+                    "nodegroup_id": "36ea2dac-9f1c-11ed-bc97-2c6dc1910000",
+                    "sortorder": 0,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "24734d86-c797-4c53-a25b-0f7d20610526",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Condition State",
+                        "placeholder": "Select an option"
+                    },
+                    "id": "0a0f5306-3312-40f1-94c0-6f16379950e0",
+                    "label": "Condition State",
+                    "node_id": "24258b1e-a591-11ed-b169-2c6dc1910000",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000015"
+                },
+                {
+                    "card_id": "8c80bed8-cc59-4fc0-9ce2-9269c6125f5b",
+                    "config": {
+                        "acceptedFiles": ".pdf, .zip",
+                        "label": "Condition Assessment",
+                        "maxFilesize": "200",
+                        "rerender": true
+                    },
+                    "id": "53fc6bcd-d51d-4b69-94ca-cc59a70b53c8",
+                    "label": "Condition Assessment",
+                    "node_id": "6c352bb6-9f1b-11ed-bc97-2c6dc1910000",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000019"
+                },
+                {
+                    "card_id": "8c80bed8-cc59-4fc0-9ce2-9269c6125f5b",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD",
+                        "defaultValue": "",
+                        "label": "Date of Assessment",
+                        "maxDate": false,
+                        "minDate": false,
+                        "placeholder": "Enter date",
+                        "viewMode": "days"
+                    },
+                    "id": "70b662c1-eb9b-425d-83b9-b4312c04b714",
+                    "label": "Date of Assessment",
+                    "node_id": "e38bc850-9f1b-11ed-bc97-2c6dc1910000",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000004"
+                },
+                {
+                    "card_id": "8c80bed8-cc59-4fc0-9ce2-9269c6125f5b",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Mural Assessor",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "a902d1a0-2d54-4769-9b86-c8151a5c9897",
+                    "label": "Mural Assessor",
+                    "node_id": "a4444a5a-9f1b-11ed-bc97-2c6dc1910000",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "b0db0dd2-c176-4617-9853-2ea9e2845664",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "label": "Mural",
+                        "placeholder": ""
+                    },
+                    "id": "c1d2695a-2ed7-4256-8480-cd52a3c84c29",
+                    "label": "Mural",
+                    "node_id": "36ea2dac-9f1c-11ed-bc97-2c6dc1910000",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": "#f9dd0f",
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": "",
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "6c352bb6-9f1b-11ed-bc97-2c6dc1910000",
+                    "edgeid": "0b28e25c-49a8-4592-8478-d8b132da1b60",
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by",
+                    "rangenode_id": "a4444a5a-9f1b-11ed-bc97-2c6dc1910000"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d2432594-9f1a-11ed-bc97-2c6dc1910000",
+                    "edgeid": "1aaa9361-4a39-4232-a3ca-2cc21147c5e9",
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "24258b1e-a591-11ed-b169-2c6dc1910000"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d2432594-9f1a-11ed-bc97-2c6dc1910000",
+                    "edgeid": "49be705d-8b60-4cab-986c-ae22d6e4f189",
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P44i_is_condition_of",
+                    "rangenode_id": "36ea2dac-9f1c-11ed-bc97-2c6dc1910000"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "6c352bb6-9f1b-11ed-bc97-2c6dc1910000",
+                    "edgeid": "ca6f07a1-adc4-43b4-9e18-8f373a5afd6e",
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "rangenode_id": "e38bc850-9f1b-11ed-bc97-2c6dc1910000"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d2432594-9f1a-11ed-bc97-2c6dc1910000",
+                    "edgeid": "cfdc1e2c-7642-448c-a9d3-c91905f70ac4",
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P35i_was_identified_by",
+                    "rangenode_id": "6c352bb6-9f1b-11ed-bc97-2c6dc1910000"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "6c352bb6-9f1b-11ed-bc97-2c6dc1910000",
+                                "string_template": "Assessment Completion Date: <Assessment End Date>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "36ea2dac-9f1c-11ed-bc97-2c6dc1910000",
+                                "string_template": "Assessment of <Mural>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "id": "deee077a-80f3-457d-bbda-71e3f2f6319a"
+                }
+            ],
+            "graphid": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+            "iconclass": "fa fa-files-o",
+            "is_editable": true,
+            "isactive": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": "Mural Condition State",
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "24258b1e-a591-11ed-b169-2c6dc1910000",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "36ea2dac-9f1c-11ed-bc97-2c6dc1910000",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "6c352bb6-9f1b-11ed-bc97-2c6dc1910000",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "condition_state",
+                    "config": {
+                        "options": [
+                            {
+                                "id": "db9b974b-07c5-4622-8786-720840e159bf",
+                                "selected": false,
+                                "text": "Excellent"
+                            },
+                            {
+                                "id": "ebf4fb6f-6ede-4588-a152-b3505153eacc",
+                                "selected": false,
+                                "text": "Good"
+                            },
+                            {
+                                "id": "7486eb12-bb8e-49e0-bf22-2bb69f7aae0f",
+                                "selected": false,
+                                "text": "Fair"
+                            },
+                            {
+                                "id": "97bca484-6a61-48a5-92f7-351ef4d69509",
+                                "selected": false,
+                                "text": "Poor"
+                            }
+                        ]
+                    },
+                    "datatype": "domain-value",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Condition State",
+                    "nodegroup_id": "24258b1e-a591-11ed-b169-2c6dc1910000",
+                    "nodeid": "24258b1e-a591-11ed-b169-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 2
+                },
+                {
+                    "alias": "mural",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                                "name": "Mural Production"
+                            }
+                        ],
+                        "nodeid": null,
+                        "property": null,
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mural",
+                    "nodegroup_id": "36ea2dac-9f1c-11ed-bc97-2c6dc1910000",
+                    "nodeid": "36ea2dac-9f1c-11ed-bc97-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P44i_is_condition_of",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "condition_assessment",
+                    "config": {
+                        "activateMax": false,
+                        "maxFileSize": null,
+                        "maxFiles": 1
+                    },
+                    "datatype": "file-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Condition Assessment",
+                    "nodegroup_id": "6c352bb6-9f1b-11ed-bc97-2c6dc1910000",
+                    "nodeid": "6c352bb6-9f1b-11ed-bc97-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E14_Condition_Assessment",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P35i_was_identified_by",
+                    "sortorder": 1
+                },
+                {
+                    "alias": "mural_assessor",
+                    "config": null,
+                    "datatype": "string",
+                    "description": "Assessment may be carried out be an individual or a group identified by Actor (E39).",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mural Assessor",
+                    "nodegroup_id": "6c352bb6-9f1b-11ed-bc97-2c6dc1910000",
+                    "nodeid": "a4444a5a-9f1b-11ed-bc97-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by",
+                    "sortorder": 0
+                },
+                {
+                    "alias": null,
+                    "config": null,
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Mural Condition State",
+                    "nodegroup_id": null,
+                    "nodeid": "d2432594-9f1a-11ed-bc97-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "date_of_assessment",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Date of Assessment",
+                    "nodegroup_id": "6c352bb6-9f1b-11ed-bc97-2c6dc1910000",
+                    "nodeid": "e38bc850-9f1b-11ed-bc97-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "e6e8db47-2ccf-11e6-927e-b8f6b115d7dd",
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": null,
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "db9e13c1-1181-4cb7-a44d-4a8f221e7500",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Mural Condition State",
+                "nodegroup_id": null,
+                "nodeid": "d2432594-9f1a-11ed-bc97-2c6dc1910000",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": "",
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 12.14 (Ubuntu 12.14-1.pgdg18.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "5.10.16.3-microsoft-standard-WSL2"
+    }
+}

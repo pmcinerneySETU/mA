@@ -1,0 +1,10 @@
+*.pyc
+*.log
+arches_ma_project/logs
+arches_ma_project/export_deliverables
+arches_ma_project/cantaloupe/*
+arches_ma_project/media/packages
+arches_ma_project/uploadedfiles/*
+arches_ma_project/settings_local.py
+.vscode/
+CACHE

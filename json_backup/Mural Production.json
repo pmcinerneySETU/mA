@@ -1,0 +1,648 @@
+{
+    "graph": [
+        {
+            "author": "Patrick McInerney",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "18cc84cd-537c-4610-8879-7d33a3046402",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "18cc84cd-537c-4610-8879-7d33a3046402",
+                            "constraintid": "1b98d8e3-131f-4899-bd59-232fe4458b76",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "18cc84cd-537c-4610-8879-7d33a3046402",
+                            "constraintid": "5fc623c2-3e35-4c55-a346-f98f3fb0765b",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": false,
+                    "name": "Mural",
+                    "nodegroup_id": "aa365674-a411-11ed-b915-2c6dc1910000",
+                    "sortorder": 0,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "5903a5c6-9d79-11ed-84ed-00be432b24e7",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "5903a5c6-9d79-11ed-84ed-00be432b24e7",
+                            "constraintid": "02b4aaf0-f4df-4b56-a089-0191c1b3d818",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Mural Production Time Span",
+                    "nodegroup_id": "5903a5c5-9d79-11ed-84ed-00be432b24e7",
+                    "sortorder": 2,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "60d0346c-0671-4889-af27-143d403b1c4e",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "60d0346c-0671-4889-af27-143d403b1c4e",
+                            "constraintid": "b47f2307-5aaa-456a-b6b1-5fefc4a7554f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "60d0346c-0671-4889-af27-143d403b1c4e",
+                            "constraintid": "af9bba86-bd34-48c5-804d-7a4693282b95",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Site",
+                    "nodegroup_id": "65c6cc98-9f12-11ed-bc97-2c6dc1910000",
+                    "sortorder": 3,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "fe9a33b2-f2c7-45e1-b5e0-ed06ab4c4ed0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": {
+                        "groupedCardIds": [],
+                        "sortedWidgetIds": [
+                            "075cf732-a3b7-11ed-bbe0-00be432b24e7",
+                            "bf766146-a3b7-11ed-bbe0-00be432b24e7"
+                        ]
+                    },
+                    "constraints": [
+                        {
+                            "card_id": "fe9a33b2-f2c7-45e1-b5e0-ed06ab4c4ed0",
+                            "constraintid": "47a8d59f-76e8-4504-aaeb-d1419e47f941",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "fe9a33b2-f2c7-45e1-b5e0-ed06ab4c4ed0",
+                            "constraintid": "0d422641-6e34-43de-9851-e774b6273142",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": false,
+                    "name": "Artist",
+                    "nodegroup_id": "075cf732-a3b7-11ed-bbe0-00be432b24e7",
+                    "sortorder": 1,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "5903a5c6-9d79-11ed-84ed-00be432b24e7",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD",
+                        "defaultValue": "",
+                        "label": "Start Date",
+                        "maxDate": false,
+                        "minDate": false,
+                        "placeholder": "Enter date",
+                        "viewMode": "days"
+                    },
+                    "id": "2aa0fcfc-12e0-43b1-9a2f-ac744eafbdd4",
+                    "label": "Start Date",
+                    "node_id": "5903a5cb-9d79-11ed-84ed-00be432b24e7",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000004"
+                },
+                {
+                    "card_id": "18cc84cd-537c-4610-8879-7d33a3046402",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "label": "Mural",
+                        "placeholder": ""
+                    },
+                    "id": "74f50479-fece-42a2-8cd5-e4cd5a7f5853",
+                    "label": "Mural",
+                    "node_id": "aa365674-a411-11ed-b915-2c6dc1910000",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "60d0346c-0671-4889-af27-143d403b1c4e",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Site Address",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "988316a9-beb6-4262-9ab9-e228a52fae73",
+                    "label": "Site Address",
+                    "node_id": "914bc618-9f15-11ed-bc97-2c6dc1910000",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "60d0346c-0671-4889-af27-143d403b1c4e",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Site Address",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "9e5fd462-2fc8-4bf1-8819-b87985a2c240",
+                    "label": "Site Address",
+                    "node_id": "65c6cc98-9f12-11ed-bc97-2c6dc1910000",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "5903a5c6-9d79-11ed-84ed-00be432b24e7",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD",
+                        "defaultValue": "",
+                        "label": "End Date",
+                        "maxDate": false,
+                        "minDate": false,
+                        "placeholder": "Enter date",
+                        "viewMode": "days"
+                    },
+                    "id": "c6ca28a1-7ec5-40b7-ae54-c36d8dfcbf42",
+                    "label": "End Date",
+                    "node_id": "5903a5cc-9d79-11ed-84ed-00be432b24e7",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000004"
+                },
+                {
+                    "card_id": "fe9a33b2-f2c7-45e1-b5e0-ed06ab4c4ed0",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "label": "Artist",
+                        "placeholder": ""
+                    },
+                    "id": "c7c576cf-095c-451e-8912-eca3026d5bb3",
+                    "label": "Artist",
+                    "node_id": "075cf732-a3b7-11ed-bbe0-00be432b24e7",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "fe9a33b2-f2c7-45e1-b5e0-ed06ab4c4ed0",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Artist Role",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "e4dacc96-8832-47d2-9230-81277ee4e327",
+                    "label": "Artist Role",
+                    "node_id": "bf766146-a3b7-11ed-bbe0-00be432b24e7",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000015"
+                }
+            ],
+            "color": "#3be71a",
+            "config": {
+                "activeTabIndex": 0,
+                "tabs": [
+                    {
+                        "icon": "fa fa-adjust",
+                        "name": "New Tab",
+                        "nodegroup_ids": []
+                    }
+                ]
+            },
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": "",
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "65c6cc98-9f12-11ed-bc97-2c6dc1910000",
+                    "edgeid": "344c7e69-ce24-4bf6-9724-d3c2430df43b",
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "rangenode_id": "914bc618-9f15-11ed-bc97-2c6dc1910000"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5903a5cd-9d79-11ed-84ed-00be432b24e7",
+                    "edgeid": "50c997dd-965c-466e-80eb-215ab6ea8368",
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P10_falls_within",
+                    "rangenode_id": "65c6cc98-9f12-11ed-bc97-2c6dc1910000"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5903a5c5-9d79-11ed-84ed-00be432b24e7",
+                    "edgeid": "5903a5d1-9d79-11ed-84ed-00be432b24e7",
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
+                    "rangenode_id": "5903a5cb-9d79-11ed-84ed-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5903a5c5-9d79-11ed-84ed-00be432b24e7",
+                    "edgeid": "5903a5d3-9d79-11ed-84ed-00be432b24e7",
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
+                    "rangenode_id": "5903a5cc-9d79-11ed-84ed-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5903a5cd-9d79-11ed-84ed-00be432b24e7",
+                    "edgeid": "5903a5d4-9d79-11ed-84ed-00be432b24e7",
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "rangenode_id": "5903a5c5-9d79-11ed-84ed-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5903a5cd-9d79-11ed-84ed-00be432b24e7",
+                    "edgeid": "884f4b6a-f298-4d7d-a6b7-bda3761c394a",
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by",
+                    "rangenode_id": "075cf732-a3b7-11ed-bbe0-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "075cf732-a3b7-11ed-bbe0-00be432b24e7",
+                    "edgeid": "90c15e93-396a-4b22-952c-d6d1454d9aae",
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "bf766146-a3b7-11ed-bbe0-00be432b24e7"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5903a5cd-9d79-11ed-84ed-00be432b24e7",
+                    "edgeid": "b8771b2c-fadb-49ad-b7c6-a44a4f897739",
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P108_has_produced",
+                    "rangenode_id": "aa365674-a411-11ed-b915-2c6dc1910000"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "65c6cc98-9f12-11ed-bc97-2c6dc1910000",
+                                "string_template": "Production Site: <Site Address>, <Site>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "577a5f34-a3b7-11ed-bbe0-00be432b24e7",
+                                "string_template": "Mural Production: <Mural>"
+                            },
+                            "name": {
+                                "nodegroup_id": "aa365674-a411-11ed-b915-2c6dc1910000",
+                                "string_template": "<Mural>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "id": "e11e9d15-f01b-4dcd-a73d-4cc8bfe98395"
+                }
+            ],
+            "graphid": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+            "iconclass": "fa fa-paint-brush",
+            "is_editable": false,
+            "isactive": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": "Mural Production",
+            "nodegroups": [
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "075cf732-a3b7-11ed-bbe0-00be432b24e7",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "5903a5c5-9d79-11ed-84ed-00be432b24e7",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "65c6cc98-9f12-11ed-bc97-2c6dc1910000",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "aa365674-a411-11ed-b915-2c6dc1910000",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "artist",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "2792eec2-955b-40a6-a8f6-bfdc49422ec7",
+                                "name": "Artist"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Artist",
+                    "nodegroup_id": "075cf732-a3b7-11ed-bbe0-00be432b24e7",
+                    "nodeid": "075cf732-a3b7-11ed-bbe0-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E21_Person",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by",
+                    "sortorder": 2
+                },
+                {
+                    "alias": "mural_production_time_span",
+                    "config": null,
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mural Production Time Span",
+                    "nodegroup_id": "5903a5c5-9d79-11ed-84ed-00be432b24e7",
+                    "nodeid": "5903a5c5-9d79-11ed-84ed-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "sortorder": 3
+                },
+                {
+                    "alias": "start_date",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Start Date",
+                    "nodegroup_id": "5903a5c5-9d79-11ed-84ed-00be432b24e7",
+                    "nodeid": "5903a5cb-9d79-11ed-84ed-00be432b24e7",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "end_date",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "End Date",
+                    "nodegroup_id": "5903a5c5-9d79-11ed-84ed-00be432b24e7",
+                    "nodeid": "5903a5cc-9d79-11ed-84ed-00be432b24e7",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
+                    "sortorder": 0
+                },
+                {
+                    "alias": null,
+                    "config": null,
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Mural Production",
+                    "nodegroup_id": null,
+                    "nodeid": "5903a5cd-9d79-11ed-84ed-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E12_Production",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "site",
+                    "config": null,
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Site",
+                    "nodegroup_id": "65c6cc98-9f12-11ed-bc97-2c6dc1910000",
+                    "nodeid": "65c6cc98-9f12-11ed-bc97-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E27_Site",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P10_falls_within",
+                    "sortorder": 1
+                },
+                {
+                    "alias": "site_address",
+                    "config": null,
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Site Address",
+                    "nodegroup_id": "65c6cc98-9f12-11ed-bc97-2c6dc1910000",
+                    "nodeid": "914bc618-9f15-11ed-bc97-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E44_Place_Appellation",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mural",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "00f0442b-cb0f-4e6d-9462-0ffa2a1139aa",
+                                "name": "Mural"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mural",
+                    "nodegroup_id": "aa365674-a411-11ed-b915-2c6dc1910000",
+                    "nodeid": "aa365674-a411-11ed-b915-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P108_has_produced",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "artist_role",
+                    "config": {
+                        "options": [
+                            {
+                                "id": "d3d10db4-ff30-4b86-9741-5ed4ae53c62e",
+                                "selected": false,
+                                "text": "Primary Artist"
+                            },
+                            {
+                                "id": "e32b8d35-3e21-45a5-9991-6c174ebabd03",
+                                "selected": false,
+                                "text": "Support Artist"
+                            }
+                        ]
+                    },
+                    "datatype": "domain-value",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Artist Role",
+                    "nodegroup_id": "075cf732-a3b7-11ed-bbe0-00be432b24e7",
+                    "nodeid": "bf766146-a3b7-11ed-bbe0-00be432b24e7",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "e6e8db47-2ccf-11e6-927e-b8f6b115d7dd",
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": null,
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "5903a5c0-9d79-11ed-84ed-00be432b24e7",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Mural Production",
+                "nodegroup_id": null,
+                "nodeid": "5903a5cd-9d79-11ed-84ed-00be432b24e7",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E12_Production",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": "",
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 12.14 (Ubuntu 12.14-1.pgdg18.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "5.10.16.3-microsoft-standard-WSL2"
+    }
+}

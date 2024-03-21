@@ -1,0 +1,365 @@
+{
+    "graph": [
+        {
+            "author": "Patrick McInerney",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "342b4805-2d29-4763-a4fd-c13dad742194",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "342b4805-2d29-4763-a4fd-c13dad742194",
+                            "constraintid": "4c15f86a-90ca-4d90-ad23-2c9e7d8a0ecd",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "342b4805-2d29-4763-a4fd-c13dad742194",
+                            "constraintid": "b986922f-a348-4f91-ad05-a31f4536a9ac",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Mural",
+                    "nodegroup_id": "db056598-a58c-11ed-b169-2c6dc1910000",
+                    "sortorder": 0,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3cd25f76-2f0a-48f9-aa6c-f034c3df2531",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "3cd25f76-2f0a-48f9-aa6c-f034c3df2531",
+                            "constraintid": "37405227-1266-413c-aba7-3bb38d949645",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "3cd25f76-2f0a-48f9-aa6c-f034c3df2531",
+                            "constraintid": "80895c78-7bbc-4381-b70e-c60e2c6ffcaa",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Destroyer",
+                    "nodegroup_id": "dfbe0e2c-a592-11ed-b169-2c6dc1910000",
+                    "sortorder": 2,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "64e9e073-6af0-48e8-921e-a3ccd7d12d12",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "64e9e073-6af0-48e8-921e-a3ccd7d12d12",
+                            "constraintid": "4e8b47d1-56ea-45c5-a5c8-1c1962e3a420",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "64e9e073-6af0-48e8-921e-a3ccd7d12d12",
+                            "constraintid": "442a9f08-fa95-4e9a-9447-181d9ec675e1",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Date of Destruction",
+                    "nodegroup_id": "f1c635e0-a58d-11ed-b169-2c6dc1910000",
+                    "sortorder": 1,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "342b4805-2d29-4763-a4fd-c13dad742194",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "label": "Mural",
+                        "placeholder": ""
+                    },
+                    "id": "1d821b12-ab31-40bd-b174-75406af79db9",
+                    "label": "Mural",
+                    "node_id": "db056598-a58c-11ed-b169-2c6dc1910000",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "64e9e073-6af0-48e8-921e-a3ccd7d12d12",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Date of Destruction",
+                        "maxDate": false,
+                        "minDate": false,
+                        "placeholder": "Enter date",
+                        "viewMode": "days"
+                    },
+                    "id": "62aeb3a9-a9bd-422c-ad88-ef0eaa588fa1",
+                    "label": "Date of Destruction",
+                    "node_id": "f1c635e0-a58d-11ed-b169-2c6dc1910000",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000004"
+                },
+                {
+                    "card_id": "3cd25f76-2f0a-48f9-aa6c-f034c3df2531",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Destroyer",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "7a9a7b7f-01d7-457a-9e30-80e888e68d34",
+                    "label": "Destroyer",
+                    "node_id": "dfbe0e2c-a592-11ed-b169-2c6dc1910000",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": "",
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "be0d2264-a58c-11ed-b169-2c6dc1910000",
+                    "edgeid": "9c88102b-3528-4cb6-883e-a9ed6f93622d",
+                    "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P13_destroyed",
+                    "rangenode_id": "db056598-a58c-11ed-b169-2c6dc1910000"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "be0d2264-a58c-11ed-b169-2c6dc1910000",
+                    "edgeid": "b19a515c-9095-489a-8915-b1738c0f1345",
+                    "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P11_had_participant",
+                    "rangenode_id": "dfbe0e2c-a592-11ed-b169-2c6dc1910000"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "be0d2264-a58c-11ed-b169-2c6dc1910000",
+                    "edgeid": "f26e3609-68d4-4f81-be6a-a991f466012f",
+                    "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "rangenode_id": "f1c635e0-a58d-11ed-b169-2c6dc1910000"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "f1c635e0-a58d-11ed-b169-2c6dc1910000",
+                                "string_template": "Date of Destruction: <Date of Destruction>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "db056598-a58c-11ed-b169-2c6dc1910000",
+                                "string_template": "<Mural>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                    "id": "aba1fbfa-4b5e-47a4-9e04-385b4a62be82"
+                }
+            ],
+            "graphid": "f751016b-c8b4-44cc-b0a3-800de256a111",
+            "iconclass": "fa fa-bomb",
+            "is_editable": true,
+            "isactive": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": "Mural Destruction",
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "db056598-a58c-11ed-b169-2c6dc1910000",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "dfbe0e2c-a592-11ed-b169-2c6dc1910000",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f1c635e0-a58d-11ed-b169-2c6dc1910000",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": null,
+                    "config": null,
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Mural Destruction",
+                    "nodegroup_id": null,
+                    "nodeid": "be0d2264-a58c-11ed-b169-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E6_Destruction",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mural",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "00f0442b-cb0f-4e6d-9462-0ffa2a1139aa",
+                                "name": "Mural"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mural",
+                    "nodegroup_id": "db056598-a58c-11ed-b169-2c6dc1910000",
+                    "nodeid": "db056598-a58c-11ed-b169-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P13_destroyed",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "destroyer",
+                    "config": null,
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Destroyer",
+                    "nodegroup_id": "dfbe0e2c-a592-11ed-b169-2c6dc1910000",
+                    "nodeid": "dfbe0e2c-a592-11ed-b169-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P11_had_participant",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "date_of_destruction",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Date of Destruction",
+                    "nodegroup_id": "f1c635e0-a58d-11ed-b169-2c6dc1910000",
+                    "nodeid": "f1c635e0-a58d-11ed-b169-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "e6e8db47-2ccf-11e6-927e-b8f6b115d7dd",
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": null,
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "f751016b-c8b4-44cc-b0a3-800de256a111",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Mural Destruction",
+                "nodegroup_id": null,
+                "nodeid": "be0d2264-a58c-11ed-b169-2c6dc1910000",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E6_Destruction",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": "",
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 12.14 (Ubuntu 12.14-1.pgdg18.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "5.10.16.3-microsoft-standard-WSL2"
+    }
+}

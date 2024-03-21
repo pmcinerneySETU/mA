@@ -1,0 +1,370 @@
+{
+    "graph": [
+        {
+            "author": "Patrick McInerney",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "24215be2-74f8-4d24-a118-d6a8727c96e3",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "24215be2-74f8-4d24-a118-d6a8727c96e3",
+                            "constraintid": "b3f0fa1f-edca-4662-b63b-7aa40911dfcd",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "24215be2-74f8-4d24-a118-d6a8727c96e3",
+                            "constraintid": "fd8db3ee-e5fb-4ca6-8061-af94fcf3aa9c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": false,
+                    "name": "Orthophoto",
+                    "nodegroup_id": "86eb4912-ccd4-11ee-b027-00155d2ffd59",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "a051f7f8-e975-4a5d-ac9a-e17e091e1a72",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "a051f7f8-e975-4a5d-ac9a-e17e091e1a72",
+                            "constraintid": "92e0177d-8a67-45e5-a183-f0cbfd4e5716",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "a051f7f8-e975-4a5d-ac9a-e17e091e1a72",
+                            "constraintid": "79d35724-7823-40fa-a22c-1bdb486b3153",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": false,
+                    "name": "Mural",
+                    "nodegroup_id": "c6069eda-ccd4-11ee-aa41-00155d2ffd59",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d0b9d2dc-5b4e-4724-a331-c4c72ddbae60",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "d0b9d2dc-5b4e-4724-a331-c4c72ddbae60",
+                            "constraintid": "9723004f-4c54-4323-80a8-dd90e7132a56",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "d0b9d2dc-5b4e-4724-a331-c4c72ddbae60",
+                            "constraintid": "14590502-f381-4519-9227-b6ae1ba841bb",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Digital Camera",
+                    "nodegroup_id": "59dfd49a-ccd6-11ee-bd50-00155d2ffd59",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "d0b9d2dc-5b4e-4724-a331-c4c72ddbae60",
+                    "config": {
+                        "defaultValue": "",
+                        "label": "Digital Camera",
+                        "maxLength": null,
+                        "placeholder": "Enter text",
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "69b8ff50-8a76-4e1a-886c-5cba567873c9",
+                    "label": "Digital Camera",
+                    "node_id": "59dfd49a-ccd6-11ee-bd50-00155d2ffd59",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "a051f7f8-e975-4a5d-ac9a-e17e091e1a72",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "label": "Mural",
+                        "placeholder": ""
+                    },
+                    "id": "6c33a70b-47e6-49ef-9c3d-7a258258beff",
+                    "label": "Mural",
+                    "node_id": "c6069eda-ccd4-11ee-aa41-00155d2ffd59",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "24215be2-74f8-4d24-a118-d6a8727c96e3",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "label": "Orthophoto",
+                        "placeholder": ""
+                    },
+                    "id": "91a520b6-8400-4753-a157-750a53598600",
+                    "label": "Orthophoto",
+                    "node_id": "86eb4912-ccd4-11ee-b027-00155d2ffd59",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": "#18d0ef",
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": "",
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "4a711f34-9e8b-11ed-8bdf-2c6dc1910000",
+                    "edgeid": "67a44103-1450-4618-8d0b-3c9636f855c3",
+                    "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P108_has_produced",
+                    "rangenode_id": "c6069eda-ccd4-11ee-aa41-00155d2ffd59"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4a711f34-9e8b-11ed-8bdf-2c6dc1910000",
+                    "edgeid": "e175e4db-8d80-4c85-846e-137c15db6ff7",
+                    "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P108_has_produced",
+                    "rangenode_id": "86eb4912-ccd4-11ee-b027-00155d2ffd59"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4a711f34-9e8b-11ed-8bdf-2c6dc1910000",
+                    "edgeid": "ef59df65-9112-440b-a7d9-2849e94a2d61",
+                    "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object",
+                    "rangenode_id": "59dfd49a-ccd6-11ee-bd50-00155d2ffd59"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "c6069eda-ccd4-11ee-aa41-00155d2ffd59",
+                                "string_template": "Digitisation: <Mural>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "c6069eda-ccd4-11ee-aa41-00155d2ffd59",
+                                "string_template": "<Mural>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                    "id": "7a13555f-7e35-496e-8864-1760883bdb12"
+                }
+            ],
+            "graphid": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+            "iconclass": "fa fa-align-justify",
+            "is_editable": false,
+            "isactive": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": "Orthophoto Digitisation",
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "59dfd49a-ccd6-11ee-bd50-00155d2ffd59",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "86eb4912-ccd4-11ee-b027-00155d2ffd59",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "c6069eda-ccd4-11ee-aa41-00155d2ffd59",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": null,
+                    "config": null,
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Orthophoto Digitisation",
+                    "nodegroup_id": null,
+                    "nodeid": "4a711f34-9e8b-11ed-8bdf-2c6dc1910000",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E12_Production",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "digital_camera",
+                    "config": null,
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Digital Camera",
+                    "nodegroup_id": "59dfd49a-ccd6-11ee-bd50-00155d2ffd59",
+                    "nodeid": "59dfd49a-ccd6-11ee-bd50-00155d2ffd59",
+                    "ontologyclass": "http://www.ics.forth.gr/isl/CRMdig/D8_Digital_Device",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "orthophoto",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "b47f75c0-7184-4bcb-8957-120acaff6ab0",
+                                "name": "Orthophoto"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Orthophoto",
+                    "nodegroup_id": "86eb4912-ccd4-11ee-b027-00155d2ffd59",
+                    "nodeid": "86eb4912-ccd4-11ee-b027-00155d2ffd59",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P108_has_produced",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mural",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "00f0442b-cb0f-4e6d-9462-0ffa2a1139aa",
+                                "name": "Mural"
+                            }
+                        ],
+                        "rdmCollection": null,
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Mural",
+                    "nodegroup_id": "c6069eda-ccd4-11ee-aa41-00155d2ffd59",
+                    "nodeid": "c6069eda-ccd4-11ee-aa41-00155d2ffd59",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P108_has_produced",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "e6e8db47-2ccf-11e6-927e-b8f6b115d7dd",
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": null,
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "ee4e662e-5d85-4b91-bc45-3754e0c2f885",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Orthophoto Digitisation",
+                "nodegroup_id": null,
+                "nodeid": "4a711f34-9e8b-11ed-8bdf-2c6dc1910000",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E12_Production",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": "",
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 12.14 (Ubuntu 12.14-1.pgdg18.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "5.10.16.3-microsoft-standard-WSL2"
+    }
+}
